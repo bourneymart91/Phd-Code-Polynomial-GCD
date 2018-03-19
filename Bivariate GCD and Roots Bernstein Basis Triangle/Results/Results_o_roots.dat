@@ -1,0 +1,26 @@
+DATE, EX_NUM, ERROR_FXY, ERROR_HXY, ERROR_WXY,MEAN_METHOD, BOOL_ALPHA_THETA, LOW_RANK_APPROX_METHOD, LRA_ITE, APF_METHOD, APF_ITE, error_min, error_max, SUBRESULTANT_FORMAT, RANK_REVEALING_METRIC, DECONVOLUTION_METHOD_HXY, DECONVOLUTION_METHOD_WXY 
+19-Jan-2018 14:49:33,1,1.489497e-10,2.260544e-10,1.701263e-10,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Separate,Batch 
+19-Jan-2018 14:49:44,1,1.489497e-10,2.106368e-10,1.671762e-10,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch,Batch 
+19-Jan-2018 14:49:57,1,1.489497e-10,2.106368e-10,1.671762e-10,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch With STLN,Batch 
+19-Jan-2018 14:50:09,1,1.489497e-10,2.161166e-10,1.367005e-10,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch Constrained,Batch 
+19-Jan-2018 14:50:20,1,1.489497e-10,2.161166e-10,1.367005e-10,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch Constrained With STLN,Batch 
+19-Jan-2018 14:52:22,3,3.872640e-07,3.858306e-07,2.808094e-07,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Separate,Batch 
+19-Jan-2018 14:53:13,3,3.872640e-07,5.167073e-07,2.817147e-07,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch,Batch 
+19-Jan-2018 14:55:26,3,3.872640e-07,3.858306e-07,2.808094e-07,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Separate,Batch 
+19-Jan-2018 14:56:18,3,3.872640e-07,5.167073e-07,2.817147e-07,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch,Batch 
+19-Jan-2018 14:57:10,3,3.872640e-07,5.735962e-01,NaN,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch With STLN,Batch 
+19-Jan-2018 14:58:03,3,3.872640e-07,3.244891e-07,1.192679e-07,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch Constrained,Batch 
+19-Jan-2018 14:58:59,3,3.872640e-07,5.122441e-01,NaN,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch Constrained With STLN,Batch 
+19-Jan-2018 15:00:22,3,7.847161e-06,9.294044e-06,8.087927e-06,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Separate,Batch 
+19-Jan-2018 15:00:32,3,7.847161e-06,1.294350e-01,9.203954e-06,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch,Batch 
+19-Jan-2018 15:00:42,3,7.847161e-06,6.403433e-01,3.893199e-01,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch With STLN,Batch 
+19-Jan-2018 15:00:53,3,7.847161e-06,1.251926e-05,3.279252e-06,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch Constrained,Batch 
+19-Jan-2018 15:01:04,3,7.847161e-06,6.346095e-01,3.867028e-01,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch Constrained With STLN,Batch 
+19-Jan-2018 15:03:28,1,1.884352e-09,2.057648e-09,1.206384e-09,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Separate,Batch 
+19-Jan-2018 15:03:36,1,1.884352e-09,2.029684e-09,1.172159e-09,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch,Batch 
+19-Jan-2018 15:03:45,1,1.884352e-09,2.322741e-09,1.651061e-09,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch With STLN,Batch 
+19-Jan-2018 15:03:54,1,1.884352e-09,1.768809e-09,1.231655e-09,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch Constrained,Batch 
+19-Jan-2018 15:04:04,1,1.884352e-09,2.092043e-09,1.487977e-09,None,0,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch Constrained With STLN,Batch 
+24-Jan-2018 13:42:08,1,1.489497e-10,2.106368e-10,1.671762e-10,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch,Batch 
+24-Jan-2018 13:57:57,2,1.160945e-01,6.015702e-01,2.233367e-01,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch,Batch 
+24-Jan-2018 13:59:32,3,3.872640e-07,5.167073e-07,2.817147e-07,Geometric Mean Matlab Method,1,None,0,None,0,1.000000e-10,1.000000e-08,DTQ,Minimum Singular Values,Batch,Batch 

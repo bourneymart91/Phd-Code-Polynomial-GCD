@@ -1,0 +1,139 @@
+
+
+\documentclass[a4paper,11pt]{article}
+\usepackage{latexsym}
+\usepackage{amssymb}
+%\usepackage{psfrag}
+\usepackage[dvips]{graphicx}
+
+
+\setlength{\topmargin}{-2.0cm}
+%\setlength{\textheight}{25.5cm}
+\setlength{\textheight}{26cm}
+%\setlength{\textwidth}{16cm}
+\setlength{\textwidth}{17.5cm}
+%%\setlength{\oddsidemargin}{0cm}
+\setlength{\oddsidemargin}{-0.5cm}
+\setlength{\evensidemargin}{0cm}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt} % adjusts the spacing between paragraphs
+
+\begin{document}
+%\begin{center}
+%Response to referees' comments for GR/T24036/01:
+%\end{center}
+%
+\begin{center}
+Euclid's algorithm and the \textsc{Matlab} programme \texttt{Euclid.m}
+\end{center}
+%
+%\begin{center}
+%Ana Marco, Jos\'e-Javier Martin\'ez
+%\end{center}
+\date{}
+%
+
+\hrulefill
+
+%\thispagestyle{empty}  % no page number is printed  on this page
+
+\vspace{0.5cm}
+
+\begin{itemize}
+\item{
+The programme \texttt{Euclid.m} implements Euclid's algorithm for the
+Bernstein basis polynomials $f=f(y)$ and $g=g(y)$.}
+\end{itemize}
+
+The algorithm is described in the paper:
+
+\textit{Algorithm 812:BPOLY: An object-oriented library of numerical
+algorithms for polynomials in Bernstein form}, Y. Tsai and R. Farouki, ACM Transactions on Mathematical Software,
+volume 27, number 2, June 2001, pp. 267-296.
+%
+
+
+
+\vspace{0.5cm}
+
+To run the programme \texttt{Euclid.m}, type
+%
+\begin{center}
+\texttt{Euclid(n,ec,tolerance)}
+\end{center}
+%
+where
+%
+\begin{description}
+\item{\hspace{0.7cm} \texttt{n} is an integer that defines the polynomials $f(y)$ and $g(y)$ in the programme
+\texttt{ex.m}}
+%
+\item{\hspace{0.7cm} \texttt{ec} is the ratio
+%
+\begin{eqnarray*}
+\frac{\textrm{noise level}}{\textrm{signal level}}
+\end{eqnarray*}
+%
+measured in the componentwise sense.}
+%
+\item{\hspace{0.7cm} \texttt{tolerance} is the stopping criterion for the termination of
+Euclid's algorithm}
+\end{description}
+
+\vspace{0.25cm}
+
+Examples: Four examples of executing the programme \texttt{Euclid.m} are
+%
+
+\texttt{Euclid(8,0,1e-5), Euclid(14,0,1e-5), Euclid(19,1e-8,1e-2), Euclid(20,1e-10,1e-3)}
+
+$\hfill\Box$
+
+
+
+
+Note: The database \texttt{ex.m} is exactly the same as
+ the database \texttt{ex.m} for the Sylvester  and B\'ezout matrices.
+
+The method requires that a linear algebraic equation of the form $Ax=b$,
+where $A\in \mathbb{R}^{m \times m}$ is non-singular, is solved
+at each stage of Euclid's algorithm. This equation is solved by applying the
+\textrm{QR} decomposition to the augmented matrix $\left[A\, \,\,b\right]$,
+%
+\begin{eqnarray*}
+\left[A\, \,\,b\right]=QR,\qquad Q\in\mathbb{R}^{m\times m},\quad R^{m \times (m+1)}.
+\end{eqnarray*}
+%
+Since $Ax=b$ can be written as
+%
+\begin{eqnarray*}
+\left[
+A \,\, \,b \right]
+%
+\left[\begin{array}{c} x \\ -1\end{array}\right]=0,
+\end{eqnarray*}
+%
+it follows that
+%
+\begin{eqnarray*}
+QR
+%
+\left[\begin{array}{c} x \\ -1\end{array}\right]=Q\left[
+R_1 \,\, \,r  \right]
+%
+\left[\begin{array}{c} x \\ -1\end{array}\right]=0,
+\end{eqnarray*}
+%
+where $R_1\in\mathbb{R}^{m\times m}$ is upper triangular and $r$ is the
+$(m+1)$th column of $R$.
+Since $Q$ is non-singular, the equation $Ax=b$ is transformed to the
+equation $R_1x=r$.
+
+
+
+\end{document}
+
+
+
+      
+

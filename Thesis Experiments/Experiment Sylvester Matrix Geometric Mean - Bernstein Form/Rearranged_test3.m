@@ -1,0 +1,76 @@
+function [] = Rearranged_test3(m,n_k)
+% Testing that the geometric mean \lamda_{k,i} can be derived from
+% \lambda_{k-1,i}. This is the geometric mean of the entries which include
+% the coefficient a_{i}
+
+% let i be the index of the coefficient a_{i}, where we take the geometric
+% mean of the entries a_{i} in the k'th and k-1'th Sylvester subresultant
+% matrices.
+i = 1;
+
+%%
+% % 
+% Get geometric mean of entries a_{i} in the k'th subresultant by taking
+% product of all entries including a_{i}, and taking n-k+1'th root, where
+% n-k+1 is number of occurences of a_{i} in S_{k}
+
+temp_prod = 1;
+for j = 0:1:n_k
+   temp_prod = temp_prod ...
+       .* ...
+       (...
+            nchoosek(i+j,i) ...
+            .* nchoosek(m+n_k-i-j,m-i)...
+            ./ nchoosek(m+n_k,m)...
+        );
+end
+% Get the geometric mean
+GM_entries_ai_kth = temp_prod.^(1./(n_k+1));
+
+%%
+% %
+% Get geometric mean of entires a_{i} in the k-1'th subresultant by taking
+% product of all entires including a_{i}, and taking n-k+2'th root, where
+% n-k+2 is number of occurences of a_{i} in S_{k-1}
+temp_prod = 1;
+for j = 0:1:n_k+1
+    temp_prod = temp_prod ...
+        .* ...
+        (...
+            nchoosek(i+j,i) ...
+            .* nchoosek(m+n_k-i-j+1,m-i) ...
+            ./ nchoosek(m+n_k+1,m)...
+        );
+end
+% Get Geometric mean
+GM_entries_ai_k_minus_1th = temp_prod.^(1./(n_k+2));
+
+%%
+% %
+% Get the geometric mean of the entries a_{i} in the kth Sylvester
+% subresultant matrix, derived from the geometric mean of the entries of
+% a_{i} in the k-1'th Sylvester subresultant matrix
+frac = ((m+n_k+1) ./ (n_k+1)).^((n_k+2)/(n_k+1));
+binomials =  ...
+    (...
+        nchoosek(m+n_k,m) ...
+        ./ ...
+        (...
+            nchoosek(i+n_k+1,i) .* nchoosek(m+n_k-i+1,m-i)...
+        ) ...
+    )...
+    .^(1./(n_k+1));
+
+GM_entries_ai_kth_derived = ...
+    GM_entries_ai_k_minus_1th.^((n_k+2)./(n_k+1))  ...
+        * binomials ...
+        * frac;
+    
+%% 
+% Test that Geometric mean of entries in S_{k} and geometric mean
+% calculated by derivation from geometric mean of S_{k-1} are equal.
+difference = GM_entries_ai_kth - GM_entries_ai_kth_derived;
+display(difference)
+
+
+end

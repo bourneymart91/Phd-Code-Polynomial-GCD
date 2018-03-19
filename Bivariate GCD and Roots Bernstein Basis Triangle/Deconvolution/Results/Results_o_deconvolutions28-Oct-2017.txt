@@ -1,0 +1,61 @@
+DATE, EX_NUM, BOOL_PREPROC, NOISE, Method, Error 
+28-Oct-2017 20:23:36,1,0,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:23:36,1,0,1e-06,Deconvolution Batch,6.0343e-06 
+28-Oct-2017 20:23:36,1,0,1e-06,Deconvolution Batch With STLN,2.1564e-05 
+28-Oct-2017 20:23:36,1,0,1e-06,Deconvolution Batch Constrained,1.6039e-06 
+28-Oct-2017 20:23:36,1,0,1e-06,Deconvolution Batch Constrained With STLN,1.0021e-06 
+28-Oct-2017 20:23:38,1,1,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:23:38,1,1,1e-06,Deconvolution Batch,NaN 
+28-Oct-2017 20:23:38,1,1,1e-06,Deconvolution Batch With STLN,NaN 
+28-Oct-2017 20:23:38,1,1,1e-06,Deconvolution Batch Constrained,NaN 
+28-Oct-2017 20:23:38,1,1,1e-06,Deconvolution Batch Constrained With STLN,NaN 
+28-Oct-2017 20:25:55,1,0,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:25:55,1,0,1e-06,Deconvolution Batch,6.0343e-06 
+28-Oct-2017 20:25:55,1,0,1e-06,Deconvolution Batch With STLN,2.1564e-05 
+28-Oct-2017 20:25:55,1,0,1e-06,Deconvolution Batch Constrained,1.6039e-06 
+28-Oct-2017 20:25:55,1,0,1e-06,Deconvolution Batch Constrained With STLN,1.0021e-06 
+28-Oct-2017 20:25:57,1,1,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:25:57,1,1,1e-06,Deconvolution Batch,NaN 
+28-Oct-2017 20:25:57,1,1,1e-06,Deconvolution Batch With STLN,NaN 
+28-Oct-2017 20:25:57,1,1,1e-06,Deconvolution Batch Constrained,NaN 
+28-Oct-2017 20:25:57,1,1,1e-06,Deconvolution Batch Constrained With STLN,NaN 
+28-Oct-2017 20:27:25,1,0,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:27:25,1,0,1e-06,Deconvolution Batch,6.0343e-06 
+28-Oct-2017 20:27:25,1,0,1e-06,Deconvolution Batch With STLN,2.1564e-05 
+28-Oct-2017 20:27:25,1,0,1e-06,Deconvolution Batch Constrained,1.6039e-06 
+28-Oct-2017 20:27:25,1,0,1e-06,Deconvolution Batch Constrained With STLN,1.0021e-06 
+28-Oct-2017 20:27:27,1,1,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:27:27,1,1,1e-06,Deconvolution Batch,NaN 
+28-Oct-2017 20:27:27,1,1,1e-06,Deconvolution Batch With STLN,NaN 
+28-Oct-2017 20:27:27,1,1,1e-06,Deconvolution Batch Constrained,NaN 
+28-Oct-2017 20:27:27,1,1,1e-06,Deconvolution Batch Constrained With STLN,NaN 
+28-Oct-2017 20:27:59,1,0,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:27:59,1,0,1e-06,Deconvolution Batch,6.0343e-06 
+28-Oct-2017 20:27:59,1,0,1e-06,Deconvolution Batch With STLN,2.1564e-05 
+28-Oct-2017 20:27:59,1,0,1e-06,Deconvolution Batch Constrained,1.6039e-06 
+28-Oct-2017 20:27:59,1,0,1e-06,Deconvolution Batch Constrained With STLN,1.0021e-06 
+28-Oct-2017 20:28:01,1,1,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:28:01,1,1,1e-06,Deconvolution Batch,NaN 
+28-Oct-2017 20:28:01,1,1,1e-06,Deconvolution Batch With STLN,NaN 
+28-Oct-2017 20:28:01,1,1,1e-06,Deconvolution Batch Constrained,NaN 
+28-Oct-2017 20:28:01,1,1,1e-06,Deconvolution Batch Constrained With STLN,NaN 
+28-Oct-2017 20:28:11,1,0,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:28:11,1,0,1e-06,Deconvolution Batch,6.0343e-06 
+28-Oct-2017 20:28:11,1,0,1e-06,Deconvolution Batch With STLN,2.1564e-05 
+28-Oct-2017 20:28:11,1,0,1e-06,Deconvolution Batch Constrained,1.6039e-06 
+28-Oct-2017 20:28:11,1,0,1e-06,Deconvolution Batch Constrained With STLN,1.0021e-06 
+28-Oct-2017 20:28:12,1,1,1e-06,Deconvolution Separate,6.0343e-06 
+28-Oct-2017 20:28:12,1,1,1e-06,Deconvolution Batch,NaN 
+28-Oct-2017 20:28:12,1,1,1e-06,Deconvolution Batch With STLN,NaN 
+28-Oct-2017 20:28:12,1,1,1e-06,Deconvolution Batch Constrained,NaN 
+28-Oct-2017 20:28:12,1,1,1e-06,Deconvolution Batch Constrained With STLN,NaN 
+28-Oct-2017 20:28:45,1,0,1e-06,Separate,6.0343e-06 
+28-Oct-2017 20:28:45,1,0,1e-06,Batch,6.0343e-06 
+28-Oct-2017 20:28:45,1,0,1e-06,Batch With STLN,2.1564e-05 
+28-Oct-2017 20:28:45,1,0,1e-06,Batch Constrained,1.6039e-06 
+28-Oct-2017 20:28:45,1,0,1e-06,Batch Constrained With STLN,1.0021e-06 
+28-Oct-2017 20:28:47,1,1,1e-06,Separate,6.0343e-06 
+28-Oct-2017 20:28:47,1,1,1e-06,Batch,NaN 
+28-Oct-2017 20:28:47,1,1,1e-06,Batch With STLN,NaN 
+28-Oct-2017 20:28:47,1,1,1e-06,Batch Constrained,NaN 
+28-Oct-2017 20:28:47,1,1,1e-06,Batch Constrained With STLN,NaN 

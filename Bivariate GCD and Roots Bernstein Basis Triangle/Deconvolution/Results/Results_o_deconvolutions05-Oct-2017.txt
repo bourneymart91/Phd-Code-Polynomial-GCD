@@ -1,0 +1,136 @@
+DATE, EX_NUM, BOOL_PREPROC, NOISE, Method, Error 
+05-Oct-2017 11:38:50,1,1,1e-10,Deconvolution Separate,3.8149e-09 
+05-Oct-2017 11:38:50,1,1,1e-10,Deconvolution Batch,NaN 
+05-Oct-2017 11:38:50,1,1,1e-10,Deconvolution Batch With STLN,NaN 
+05-Oct-2017 11:38:50,1,1,1e-10,Deconvolution Batch Constrained,NaN 
+05-Oct-2017 11:38:50,1,1,1e-10,Deconvolution Batch Constrained With STLN,NaN 
+05-Oct-2017 11:47:06,1,1,1e-10,Deconvolution Separate,5.9659 
+05-Oct-2017 11:47:06,1,1,1e-10,Deconvolution Batch,NaN 
+05-Oct-2017 11:47:06,1,1,1e-10,Deconvolution Batch With STLN,NaN 
+05-Oct-2017 11:47:06,1,1,1e-10,Deconvolution Batch Constrained,NaN 
+05-Oct-2017 11:47:06,1,1,1e-10,Deconvolution Batch Constrained With STLN,NaN 
+05-Oct-2017 11:49:10,1,0,1e-10,Deconvolution Separate,5.9659 
+05-Oct-2017 11:49:10,1,0,1e-10,Deconvolution Batch,5.9659 
+05-Oct-2017 11:49:10,1,0,1e-10,Deconvolution Batch With STLN,5.9659 
+05-Oct-2017 11:49:10,1,0,1e-10,Deconvolution Batch Constrained,5.9659 
+05-Oct-2017 11:49:10,1,0,1e-10,Deconvolution Batch Constrained With STLN,5.9659 
+05-Oct-2017 11:50:00,1,0,0,Deconvolution Separate,5.9659 
+05-Oct-2017 11:50:00,1,0,0,Deconvolution Batch,5.9659 
+05-Oct-2017 11:50:00,1,0,0,Deconvolution Batch With STLN,5.9659 
+05-Oct-2017 11:50:00,1,0,0,Deconvolution Batch Constrained,5.9659 
+05-Oct-2017 11:50:00,1,0,0,Deconvolution Batch Constrained With STLN,5.9659 
+05-Oct-2017 11:53:06,1,0,0,Deconvolution Separate,4.8124e-15 
+05-Oct-2017 11:53:06,1,0,0,Deconvolution Batch,2.3372e-15 
+05-Oct-2017 11:53:06,1,0,0,Deconvolution Batch With STLN,2.3372e-15 
+05-Oct-2017 11:53:06,1,0,0,Deconvolution Batch Constrained,2.2893e-14 
+05-Oct-2017 11:53:06,1,0,0,Deconvolution Batch Constrained With STLN,2.2893e-14 
+05-Oct-2017 12:03:39,1,0,0,Deconvolution Separate,4.8124e-15 
+05-Oct-2017 12:03:39,1,0,0,Deconvolution Batch,2.3372e-15 
+05-Oct-2017 12:03:39,1,0,0,Deconvolution Batch With STLN,2.3372e-15 
+05-Oct-2017 12:03:39,1,0,0,Deconvolution Batch Constrained,2.2893e-14 
+05-Oct-2017 12:03:39,1,0,0,Deconvolution Batch Constrained With STLN,2.2893e-14 
+05-Oct-2017 12:04:54,1,0,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 12:04:54,1,0,1e-10,Deconvolution Batch,6.0343e-10 
+05-Oct-2017 12:04:54,1,0,1e-10,Deconvolution Batch With STLN,3.0505e-08 
+05-Oct-2017 12:04:54,1,0,1e-10,Deconvolution Batch Constrained,1.6041e-10 
+05-Oct-2017 12:04:54,1,0,1e-10,Deconvolution Batch Constrained With STLN,1.0021e-10 
+05-Oct-2017 12:05:41,1,0,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 12:05:41,1,0,1e-10,Deconvolution Batch,6.0343e-10 
+05-Oct-2017 12:05:41,1,0,1e-10,Deconvolution Batch With STLN,3.0505e-08 
+05-Oct-2017 12:05:41,1,0,1e-10,Deconvolution Batch Constrained,1.6041e-10 
+05-Oct-2017 12:05:41,1,0,1e-10,Deconvolution Batch Constrained With STLN,1.0021e-10 
+05-Oct-2017 12:05:53,1,0,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 12:05:53,1,0,1e-10,Deconvolution Batch,6.0343e-10 
+05-Oct-2017 12:05:53,1,0,1e-10,Deconvolution Batch With STLN,3.0505e-08 
+05-Oct-2017 12:05:53,1,0,1e-10,Deconvolution Batch Constrained,1.6041e-10 
+05-Oct-2017 12:05:53,1,0,1e-10,Deconvolution Batch Constrained With STLN,1.0021e-10 
+05-Oct-2017 12:06:05,1,0,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 12:06:05,1,0,1e-10,Deconvolution Batch,6.0343e-10 
+05-Oct-2017 12:06:05,1,0,1e-10,Deconvolution Batch With STLN,3.0505e-08 
+05-Oct-2017 12:06:05,1,0,1e-10,Deconvolution Batch Constrained,1.6041e-10 
+05-Oct-2017 12:06:05,1,0,1e-10,Deconvolution Batch Constrained With STLN,1.0021e-10 
+05-Oct-2017 12:08:09,1,0,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 12:08:09,1,0,1e-10,Deconvolution Batch,6.0343e-10 
+05-Oct-2017 12:08:09,1,0,1e-10,Deconvolution Batch With STLN,3.0505e-08 
+05-Oct-2017 12:08:09,1,0,1e-10,Deconvolution Batch Constrained,1.6041e-10 
+05-Oct-2017 12:08:09,1,0,1e-10,Deconvolution Batch Constrained With STLN,1.0021e-10 
+05-Oct-2017 12:08:23,1,0,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 12:08:23,1,0,1e-10,Deconvolution Batch,6.0343e-10 
+05-Oct-2017 12:08:23,1,0,1e-10,Deconvolution Batch With STLN,3.0505e-08 
+05-Oct-2017 12:08:23,1,0,1e-10,Deconvolution Batch Constrained,1.6041e-10 
+05-Oct-2017 12:08:23,1,0,1e-10,Deconvolution Batch Constrained With STLN,1.0021e-10 
+05-Oct-2017 12:09:00,1,0,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 12:09:00,1,0,1e-10,Deconvolution Batch,6.0343e-10 
+05-Oct-2017 12:09:00,1,0,1e-10,Deconvolution Batch With STLN,3.0505e-08 
+05-Oct-2017 12:09:00,1,0,1e-10,Deconvolution Batch Constrained,1.6041e-10 
+05-Oct-2017 12:09:00,1,0,1e-10,Deconvolution Batch Constrained With STLN,1.0021e-10 
+05-Oct-2017 12:09:53,1,0,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 12:09:53,1,0,1e-10,Deconvolution Batch,6.0343e-10 
+05-Oct-2017 12:09:53,1,0,1e-10,Deconvolution Batch With STLN,5.4848e-10 
+05-Oct-2017 12:09:53,1,0,1e-10,Deconvolution Batch Constrained,1.6041e-10 
+05-Oct-2017 12:09:53,1,0,1e-10,Deconvolution Batch Constrained With STLN,1.0021e-10 
+05-Oct-2017 12:10:15,1,0,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 12:10:15,1,0,1e-10,Deconvolution Batch,6.0343e-10 
+05-Oct-2017 12:10:15,1,0,1e-10,Deconvolution Batch With STLN,5.4848e-10 
+05-Oct-2017 12:10:15,1,0,1e-10,Deconvolution Batch Constrained,1.6041e-10 
+05-Oct-2017 12:10:15,1,0,1e-10,Deconvolution Batch Constrained With STLN,1.0021e-10 
+05-Oct-2017 14:44:35,1,1,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 14:44:35,1,1,1e-10,Deconvolution Batch,NaN 
+05-Oct-2017 14:44:35,1,1,1e-10,Deconvolution Batch With STLN,NaN 
+05-Oct-2017 14:44:35,1,1,1e-10,Deconvolution Batch Constrained,NaN 
+05-Oct-2017 14:44:35,1,1,1e-10,Deconvolution Batch Constrained With STLN,NaN 
+05-Oct-2017 14:46:17,2,0,1e-10,Deconvolution Separate,7.4907e-09 
+05-Oct-2017 14:46:17,2,0,1e-10,Deconvolution Batch,7.4907e-09 
+05-Oct-2017 14:46:17,2,0,1e-10,Deconvolution Batch With STLN,6.5107e-09 
+05-Oct-2017 14:46:17,2,0,1e-10,Deconvolution Batch Constrained,7.3895e-09 
+05-Oct-2017 14:46:17,2,0,1e-10,Deconvolution Batch Constrained With STLN,2.7152e-09 
+05-Oct-2017 14:49:21,2,0,1e-10,Deconvolution Separate,7.4907e-09 
+05-Oct-2017 14:49:21,2,0,1e-10,Deconvolution Batch,7.4907e-09 
+05-Oct-2017 14:49:21,2,0,1e-10,Deconvolution Batch With STLN,6.5107e-09 
+05-Oct-2017 14:49:21,2,0,1e-10,Deconvolution Batch Constrained,7.3895e-09 
+05-Oct-2017 14:49:21,2,0,1e-10,Deconvolution Batch Constrained With STLN,2.7152e-09 
+05-Oct-2017 14:49:46,3,0,1e-10,Deconvolution Separate,5.8263e-10 
+05-Oct-2017 14:49:46,3,0,1e-10,Deconvolution Batch,5.8263e-10 
+05-Oct-2017 14:49:46,3,0,1e-10,Deconvolution Batch With STLN,5.6986e-10 
+05-Oct-2017 14:49:46,3,0,1e-10,Deconvolution Batch Constrained,1.0097e-09 
+05-Oct-2017 14:49:46,3,0,1e-10,Deconvolution Batch Constrained With STLN,6.2493e-10 
+05-Oct-2017 14:50:23,4,0,1e-10,Deconvolution Separate,2.9008e-09 
+05-Oct-2017 14:50:23,4,0,1e-10,Deconvolution Batch,2.9008e-09 
+05-Oct-2017 14:50:23,4,0,1e-10,Deconvolution Batch With STLN,3.6485e-09 
+05-Oct-2017 14:50:23,4,0,1e-10,Deconvolution Batch Constrained,9.6935e-10 
+05-Oct-2017 14:50:23,4,0,1e-10,Deconvolution Batch Constrained With STLN,1.0551e-09 
+05-Oct-2017 14:50:49,4,1,1e-10,Deconvolution Separate,2.9008e-09 
+05-Oct-2017 14:50:49,4,1,1e-10,Deconvolution Batch,1.6725e-09 
+05-Oct-2017 14:50:49,4,1,1e-10,Deconvolution Batch With STLN,2.0287e-09 
+05-Oct-2017 14:50:49,4,1,1e-10,Deconvolution Batch Constrained,8.8657e-10 
+05-Oct-2017 14:50:49,4,1,1e-10,Deconvolution Batch Constrained With STLN,8.1308e-10 
+05-Oct-2017 14:51:07,4,1,1e-08,Deconvolution Separate,2.9008e-07 
+05-Oct-2017 14:51:07,4,1,1e-08,Deconvolution Batch,1.6725e-07 
+05-Oct-2017 14:51:07,4,1,1e-08,Deconvolution Batch With STLN,2.0287e-07 
+05-Oct-2017 14:51:07,4,1,1e-08,Deconvolution Batch Constrained,8.8656e-08 
+05-Oct-2017 14:51:07,4,1,1e-08,Deconvolution Batch Constrained With STLN,8.1308e-08 
+05-Oct-2017 15:19:38,1,1,1e-10,Deconvolution Separate,6.0343e-10 
+05-Oct-2017 15:19:38,1,1,1e-10,Deconvolution Batch,NaN 
+05-Oct-2017 15:19:38,1,1,1e-10,Deconvolution Batch With STLN,NaN 
+05-Oct-2017 15:19:38,1,1,1e-10,Deconvolution Batch Constrained,NaN 
+05-Oct-2017 15:19:38,1,1,1e-10,Deconvolution Batch Constrained With STLN,NaN 
+05-Oct-2017 15:20:50,3,1,1e-10,Deconvolution Separate,5.8263e-10 
+05-Oct-2017 15:20:50,3,1,1e-10,Deconvolution Batch,4.8802e-10 
+05-Oct-2017 15:20:50,3,1,1e-10,Deconvolution Batch With STLN,4.7233e-10 
+05-Oct-2017 15:20:50,3,1,1e-10,Deconvolution Batch Constrained,2.7338e-10 
+05-Oct-2017 15:20:50,3,1,1e-10,Deconvolution Batch Constrained With STLN,1.6609e-10 
+05-Oct-2017 15:22:14,3,1,1e-10,Deconvolution Separate,5.8263e-10 
+05-Oct-2017 15:22:14,3,1,1e-10,Deconvolution Batch,4.8802e-10 
+05-Oct-2017 15:22:14,3,1,1e-10,Deconvolution Batch With STLN,4.7233e-10 
+05-Oct-2017 15:22:14,3,1,1e-10,Deconvolution Batch Constrained,2.7338e-10 
+05-Oct-2017 15:22:14,3,1,1e-10,Deconvolution Batch Constrained With STLN,1.6609e-10 
+05-Oct-2017 15:23:09,3,1,1e-10,Deconvolution Separate,5.8263e-10 
+05-Oct-2017 15:23:09,3,1,1e-10,Deconvolution Batch,4.8802e-10 
+05-Oct-2017 15:23:09,3,1,1e-10,Deconvolution Batch With STLN,4.7233e-10 
+05-Oct-2017 15:23:09,3,1,1e-10,Deconvolution Batch Constrained,2.7338e-10 
+05-Oct-2017 15:23:09,3,1,1e-10,Deconvolution Batch Constrained With STLN,1.6609e-10 
+05-Oct-2017 15:23:39,3,1,1e-08,Deconvolution Separate,5.8262e-08 
+05-Oct-2017 15:23:39,3,1,1e-08,Deconvolution Batch,4.8801e-08 
+05-Oct-2017 15:23:39,3,1,1e-08,Deconvolution Batch With STLN,4.7233e-08 
+05-Oct-2017 15:23:39,3,1,1e-08,Deconvolution Batch Constrained,2.7338e-08 
+05-Oct-2017 15:23:39,3,1,1e-08,Deconvolution Batch Constrained With STLN,1.6609e-08 

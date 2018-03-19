@@ -1,0 +1,1 @@
+o_gcd_Univariate_3Polys('1a', 1e-12, 1e-10, 'Geometric Mean Matlab Method', true, 'T All Equations', 'None', 'None', 'Minimum Singular Values'  )

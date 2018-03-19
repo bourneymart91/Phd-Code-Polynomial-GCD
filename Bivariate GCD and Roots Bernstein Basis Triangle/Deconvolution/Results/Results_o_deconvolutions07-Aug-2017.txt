@@ -1,0 +1,31 @@
+DATE, EX_NUM, BOOL_PREPROC, NOISE, Method, Error 
+07-Aug-2017 09:21:31,1,1,1e-10,Deconvolution Separate,3.8149e-09 
+07-Aug-2017 09:21:31,1,1,1e-10,Deconvolution Batch,3.8149e-09 
+07-Aug-2017 09:21:31,1,1,1e-10,Deconvolution Batch With STLN,2.6844e-10 
+07-Aug-2017 09:21:31,1,1,1e-10,Deconvolution Batch Constrained,6.4292e-11 
+07-Aug-2017 09:21:31,1,1,1e-10,Deconvolution Batch Constrained With STLN,1.2523e-11 
+07-Aug-2017 09:21:42,2,1,1e-10,Deconvolution Separate,1.0133e-07 
+07-Aug-2017 09:21:42,2,1,1e-10,Deconvolution Batch,1.0133e-07 
+07-Aug-2017 09:21:42,2,1,1e-10,Deconvolution Batch With STLN,5.6294e-10 
+07-Aug-2017 09:21:42,2,1,1e-10,Deconvolution Batch Constrained,1.3546e-10 
+07-Aug-2017 09:21:42,2,1,1e-10,Deconvolution Batch Constrained With STLN,1.0779e-10 
+07-Aug-2017 09:22:11,3,1,1e-10,Deconvolution Separate,1.6266e-08 
+07-Aug-2017 09:22:11,3,1,1e-10,Deconvolution Batch,1.6266e-08 
+07-Aug-2017 09:22:11,3,1,1e-10,Deconvolution Batch With STLN,1.4724e-08 
+07-Aug-2017 09:22:11,3,1,1e-10,Deconvolution Batch Constrained,5.0728e-09 
+07-Aug-2017 09:22:11,3,1,1e-10,Deconvolution Batch Constrained With STLN,5.0734e-09 
+07-Aug-2017 09:22:33,4,1,1e-10,Deconvolution Separate,4.7177e-08 
+07-Aug-2017 09:22:33,4,1,1e-10,Deconvolution Batch,4.7177e-08 
+07-Aug-2017 09:22:33,4,1,1e-10,Deconvolution Batch With STLN,3.5542e-08 
+07-Aug-2017 09:22:33,4,1,1e-10,Deconvolution Batch Constrained,3.1457e-08 
+07-Aug-2017 09:22:33,4,1,1e-10,Deconvolution Batch Constrained With STLN,3.1443e-08 
+07-Aug-2017 09:23:06,5,1,1e-10,Deconvolution Separate,8.8861e-06 
+07-Aug-2017 09:23:06,5,1,1e-10,Deconvolution Batch,8.8861e-06 
+07-Aug-2017 09:23:06,5,1,1e-10,Deconvolution Batch With STLN,4.4559e-06 
+07-Aug-2017 09:23:06,5,1,1e-10,Deconvolution Batch Constrained,2.1418e-06 
+07-Aug-2017 09:23:06,5,1,1e-10,Deconvolution Batch Constrained With STLN,2.1418e-06 
+07-Aug-2017 09:26:09,6,1,1e-10,Deconvolution Separate,9.0091e-05 
+07-Aug-2017 09:26:09,6,1,1e-10,Deconvolution Batch,9.0091e-05 
+07-Aug-2017 09:26:09,6,1,1e-10,Deconvolution Batch With STLN,0.0001999 
+07-Aug-2017 09:26:09,6,1,1e-10,Deconvolution Batch Constrained,3.0272e-05 
+07-Aug-2017 09:26:09,6,1,1e-10,Deconvolution Batch Constrained With STLN,3.0272e-05 

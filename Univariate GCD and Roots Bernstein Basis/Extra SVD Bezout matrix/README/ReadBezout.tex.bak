@@ -1,0 +1,109 @@
+
+
+\documentclass[a4paper,11pt]{article}
+\usepackage{latexsym}
+\usepackage{amssymb}
+%\usepackage{psfrag}
+\usepackage[dvips]{graphicx}
+
+
+\setlength{\topmargin}{-2.0cm}
+%\setlength{\textheight}{25.5cm}
+\setlength{\textheight}{26cm}
+%\setlength{\textwidth}{16cm}
+\setlength{\textwidth}{17.5cm}
+%%\setlength{\oddsidemargin}{0cm}
+\setlength{\oddsidemargin}{-0.5cm}
+\setlength{\evensidemargin}{0cm}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt} % adjusts the spacing between paragraphs
+
+\begin{document}
+%\begin{center}
+%Response to referees' comments for GR/T24036/01:
+%\end{center}
+%
+\begin{center}
+The B\'ezout resultant matrix and the \textsc{Matlab} programme \texttt{o.m}
+\end{center}
+%
+%\begin{center}
+%Ana Marco, Jos\'e-Javier Martin\'ez
+%\end{center}
+\date{}
+%
+
+\hrulefill
+
+%\thispagestyle{empty}  % no page number is printed  on this page
+
+\vspace{0.5cm}
+
+\begin{itemize}
+\item{
+The programme \texttt{o.m}  applies the singular value decomposition
+to the Bezout matrix $B(f,g)$
+ of the
+Bernstein basis polynomials $f=f(y)$ and $g=g(y)$ with $\theta=1$, and
+the optimal value of $\theta$ computed by solving a linear programming problem.}
+%
+\end{itemize}
+
+
+\vspace{0.5cm}
+
+To run the programme \texttt{o.m}, type
+%
+\begin{center}
+\texttt{o(n,ec)}
+\end{center}
+%
+where
+%
+\begin{description}
+\item{\hspace{0.7cm} \texttt{n} is an integer that defines the polynomials $f(y)$ and $g(y)$ in the programme
+\texttt{ex.m}}
+%
+\item{\hspace{0.7cm} \texttt{ec} is the ratio
+%
+\begin{eqnarray*}
+\frac{\textrm{noise level}}{\textrm{signal level}}
+\end{eqnarray*}
+%
+measured in the componentwise sense.}
+\end{description}
+
+\vspace{0.25cm}
+
+Examples: Three examples of executing the programme \texttt{o.m} are
+%
+
+\texttt{o(15,0), o(23,1e-8), o(30,1e-8)}
+
+$\hfill\Box$
+
+
+\vspace{0.25cm}
+
+The programme produces four  graphs:
+%
+\begin{enumerate}
+\item{Figure 1 shows the column sums of $B(f,g)$ for $\theta=1$.}
+\item{Figure 2 shows the column sums of $B(f,g)$ for $\theta=\theta_0$,
+where $\theta_0$ is the optimal value of $\theta$.}
+\item{Figure 3 shows the normalised singular values of $B(f,g)$ for $\theta=1$.}
+\item{Figure 4 shows the normalised singular values of $B(f,g)$ for $\theta=\theta_0$.}
+\end{enumerate}
+
+Note: The database \texttt{ex.m} is exactly the same as
+ the database \texttt{ex.m} for the other programmes on
+ Bernstein polynomials.
+
+
+
+\end{document}
+
+
+
+
+

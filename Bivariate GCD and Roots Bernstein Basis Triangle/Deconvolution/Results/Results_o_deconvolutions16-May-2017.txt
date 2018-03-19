@@ -1,0 +1,10 @@
+16-May-2017 15:31:35,1,1e-10,1,Deconvolution Separate,21.6056 
+16-May-2017 15:31:35,1,1e-10,1,Deconvolution Batch,21.6056 
+16-May-2017 15:31:35,1,1e-10,1,Deconvolution Batch With STLN,1.578 
+16-May-2017 15:31:35,1,1e-10,1,Deconvolution Batch Constrained,0.90186 
+16-May-2017 15:31:35,1,1e-10,1,Deconvolution Batch Constrained With STLN,0.3006 
+16-May-2017 15:32:55,1,1e-10,0,Deconvolution Separate,8.3059e-14 
+16-May-2017 15:32:55,1,1e-10,0,Deconvolution Batch,3.6554e-14 
+16-May-2017 15:32:55,1,1e-10,0,Deconvolution Batch With STLN,5.9374e-15 
+16-May-2017 15:32:55,1,1e-10,0,Deconvolution Batch Constrained,1.9899e-15 
+16-May-2017 15:32:55,1,1e-10,0,Deconvolution Batch Constrained With STLN,1.9899e-15 

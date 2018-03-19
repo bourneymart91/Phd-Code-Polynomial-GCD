@@ -1,0 +1,7 @@
+digraph G {
+   "foo" -> "X"
+   "bar" -> "Y"
+   "foo" -> "Z"
+   "foo" -> "bar"
+   "bar" -> "bar"
+}

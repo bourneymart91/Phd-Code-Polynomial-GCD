@@ -1,0 +1,2970 @@
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+
+Undefined function 'o_gcd_2Polys' for input arguments of type 'char'.
+
+Error in parallel_function>make_general_channel/channel_general (line 929)
+                    F(C{:});
+
+Error in remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:})); 
+
+

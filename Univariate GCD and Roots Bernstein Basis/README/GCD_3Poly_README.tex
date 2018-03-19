@@ -1,0 +1,702 @@
+\documentclass{article}
+\usepackage{fullpage}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[acronym]{glossaries}
+%\usepackage{psfrag}
+\usepackage[dvips]{graphicx}
+\usepackage[latin1]{inputenc}
+\usepackage{tikz}
+\usepackage{tabularx}
+\usetikzlibrary{shapes.geometric,arrows}
+\usepackage{longtable}
+
+% Tikzstyle
+\tikzstyle{startstop} = 
+[
+	rectangle, 
+	rounded corners, 
+	minimum width = 3cm, 
+	minimum height = 1cm, 
+	text centered, 
+	draw=black, 
+	fill=red!30
+]
+
+\tikzstyle{process} = 
+	[
+		rectangle, 
+		minimum width=3cm, 
+		minimum height=1cm, 
+		text centered,
+		draw=black, 
+		fill=white!30
+	]
+
+\tikzstyle{arrow} = [thick,->,>=stealth]
+
+\newacronym{AGCD}{AGCD}{Approximate Greatest Common Divisor}
+\newacronym{APF}{APF}{Approximate Polynomial Factorisation}
+\newacronym{CAGD}{CAGD}{Computer Aided Geometric Design}
+\newacronym{GCD}{GCD}{Greatest Common Divisor}
+\newacronym{SVD}{SVD}{Singular Value Decomposition}
+\newacronym{SNTLN}{SNTLN}{Structured Non-Linear Total Least Norm}
+\newacronym{CAD}{CAD}{Computer Aided Design}
+
+%New commands
+\newcommand{\GCD}{\textrm{GCD}}
+\newcommand{\AGCD}{\textrm{AGCD}}
+\newcommand{\ML}{\textrm{ML}}
+\newcommand{\MDL}{\textrm{MDL}}
+\newcommand{\rank}{\textrm{rank}}
+\newcommand{\STLN}{\textrm{STLN}}
+\newcommand{\SNTLN}{\textrm{SNTLN}}
+\newcommand{\LSE}{\textrm{LSE}}
+\newcommand{\SVD}{\textrm{SVD}}
+\newcommand{\QR}{\textrm{QR}}
+\newcommand{\APF}{\textrm{APF}}
+
+
+
+\begin{document}
+\begin{center}
+Degree of an $\AGCD$ of three univariate polynomials in Bernstein form
+\end{center}
+%
+\date{}
+%
+
+\hrulefill
+
+%\thispagestyle{empty}  % no page number is printed  on this page
+
+\vspace{0.5cm}
+%
+This note describes the function
+%
+\begin{center}
+\texttt{o\_gcd\_Univariate\_3Polys.m}
+\end{center}
+%
+%
+The program is executed by typing
+%
+%
+\begin{center}
+
+\texttt
+	{
+	o\_gcd\_Univariate\_3Polys
+	(
+		ex\_num, 
+		ex\_num\_variant
+		emin, 
+		emax, 
+		mean\_method, 
+		bool\_alpha\_theta, 
+		low\_rank\_approx\_method, 
+		apf\_method, 
+		sylvester\_matrix\_variant,
+		n\_equations,
+		rank\_revealing\_metric
+	)}
+\end{center}
+%
+ where
+
+
+\begin{longtable}[c]{|p{14em}||p{5em}|p{25em}|}
+			\hline
+		% Header Row ==============================================v
+			Variable
+		&	Type
+		&	Description
+		\\
+		% Row 1 ==============================================
+			\hline
+			\texttt{ex\_num}
+		&	(String)
+		&	A string typically containing an integer. This determines the set of polynomials used in the GCD finding problem.
+		\\
+		% Row 2 ==============================================
+			\hline
+			\texttt{ex\_num\_variant}
+		&	(String)
+		&	Determines the ordering of the example polynomials $a(x)$, $b(x)$ and $c(x)$ from the example file are assigned to $f(x)$, $g(x)$ and $h(x)$. All three unique polynomial orderings can be considered.
+		
+		\begin{description}
+
+			\item 'a' assigns 
+			$a(x) \rightarrow f(x)$, 
+			$b(x) \rightarrow g(x)$ and 
+			$c(x) \rightarrow h(x)$.
+			
+			\item 'b' assigns 
+			$a(x) \rightarrow g(x)$,
+			$b(x) \rightarrow f(x)$ and
+			$c(x) \rightarrow h(x)$.
+			
+			\item 'c' assigns
+			$a(x) \rightarrow h(x)$,
+			$b(x) \rightarrow g(x)$ and
+			$c(x) \rightarrow f(x)$.
+			
+		\end{description}
+		\\
+		% Row 3 ==============================================
+			\hline
+			\texttt{emin}
+		&	(Float)
+		&	Minimum level of additive componentwise noise.
+		\\
+		% Row 4 ==============================================
+			\hline
+			\texttt{emax}
+		&	(Float)
+		&	Maximum componentwise noise
+		\\
+		% Row 5 ==============================================
+			\hline
+			\texttt{mean\_method}
+		&	(String)
+		&	Method used to compute the mean of the entries of the partitions of the Sylvester subresultant matrix
+			\begin{description}
+				\item[\texttt{None} : ] 
+				No mean is computed and coefficients of polynomials $f(x)$, $g(x)$ and $h(x)$ are not normalised.
+				
+				\item[\texttt{Geometric Mean My Method} : ] My method for computing the geometric mean using a reduced algorithm.
+				
+				\item[\texttt{Geometric Mean Matlab Method} : ] Standard Matlab method for computing the geometric mean of a set of values.
+				
+				\item[\texttt{Arithmetic Mean} : ]  
+			\end{description} 
+		\\
+		\hline
+		% Row 6 ==============================================
+			\texttt{bool\_alpha\_theta}
+		&	(Boolean)
+		&	Determines whether the subresultant matrices are preprocessed
+			\begin{description}
+				\item[\texttt{true} : ]  Preprocess polynomials
+				\item[\texttt{false} : ]  Exclude preprocessing 
+			\end{description}
+		\\
+		\hline
+		% Row 7 ==============================================
+			\texttt{low\_rank\_approx\_method}
+		&	(String)
+		&	Method used for computing the low rank approximation of the $t$th subresultant matrix 
+			\begin{description}
+				\item[\texttt{None} : ] 
+				\item[\texttt{Standard SNTLN} : ] 
+				\item[\texttt{Standard STLN} : ]
+				\item[\texttt{Root Specific SNTLN} : ] 
+			\end{description}
+		\\
+		% Row 8 ==============================================
+		\hline
+			\texttt{apf\_method}
+		&	(String)
+		&	\begin{description}
+				\item[\texttt{None} : ] 
+				\item[\texttt{Standard Linear APF} : ]
+				\item[\texttt{Standard NonLinear APF} : ]
+			\end{description}
+		\\
+		% Row 9 ==============================================
+			\hline
+			\texttt{Sylvester\_Matrix\_Variant}
+		&	(String)
+		&	\begin{description}
+				
+				\item[\texttt{T} : ]
+				The matrix 
+				$
+					T_{k}
+					\left(
+						f(x)
+						,
+						g(x)
+					\right)
+				$
+				
+				
+				\item[\texttt{DT} : ]
+				The matrix 
+				$
+					D^{-1}_{m+n-k}
+					T_{k}
+					\left(
+						f(x)
+						,
+						g(x)
+					\right)
+				$
+				
+				\item[\texttt{DTQ} : ]
+				The matrix
+				$
+					D^{-1}_{m+n-k}
+					T_{k}
+					\left(
+						f(x)
+						,
+						g(x)
+					\right)
+					\hat{Q}
+				$
+				
+				
+				\item[\texttt{TQ} : ]
+				The matrix
+				$
+					T_{k}
+					\left(
+						f(x)
+						,
+						g(x)
+					\right)
+					\hat{Q}
+				$
+				
+				\item[\texttt{DTQ Rearranged} : ]
+				The matrix 
+				$
+					S_{k}
+					\left(
+						f(x)
+						,
+						g(x)
+					\right)
+					=
+					D^{-1}_{m+n-k}
+					T_{k}
+					\left(
+						f(x)
+						,
+						g(x)
+					\right)
+					\hat{Q}
+				$ where the entries are computed in a rearranged form.
+				
+				\item[\texttt{DTQ Denominator Removed} : ]
+				$
+					\tilde{S}
+					\left(
+						f(x)
+						,
+						g(x).
+					\right)
+				$
+				
+			\end{description}
+		\\
+		% Row 9.5 =============================================
+		\hline
+			\texttt{n\_equations}
+		&	(String)
+		&	Determines the shape of the three-polynomial subresultant matrices.
+			\begin{description}
+				\item[2] : The subresultant matrices have a $2 \times 3$ partitioned structure.
+				\item[3] : The subresultant matrices have a $3 \times 3$ partitioned structure.
+			\end{description}
+		\\
+		% Row 10 ==============================================
+		\hline
+			\texttt{rank\_revealing\_metric}
+		&	(String)
+		&	\begin{description}
+				\item[\texttt{Singular Values}] : Compute the degree of the GCD using minimum singular values of the set of Sylvester subresultant matrices.
+				
+				\item[\texttt{Max/Min Singular Values}] : Compute the degree of the GCD using the ratio of maximum to minimum singular values of each Sylvester subresultant matrix.
+				
+				\item[\texttt{R1 Row Norms}] : Compute the degree of the GCD using the norm of the rows of the matrix R from the QR decomposition of each Sylvester subresultant matrix.
+				
+				\item[\texttt{R1 Row Diagonals}] : Compute the degree of the GCD using the diagonals of the matrix R obtained by the QR decomposition of each Sylvester subresultant matrix.
+				
+				\item[\texttt{Residuals}] : Compute the degree of the GCD using the minimum residual obtained by removing the optimal column of each of the Sylvester subresultant matrices.
+			\end{description}
+		\\
+		% Final row
+		\hline
+\end{longtable}
+
+
+\subsection{Starting Points}
+A set of experiments files consider alternative combinations of input variables.
+
+\begin{longtable}[c]{|p{20em}||p{25em}|}
+	\hline
+	\texttt{Experiment0\_Standard( ex\_num, ex\_num\_variant, bool\_preproc)}
+	&
+	This experiment is a blank canvas, the user can change any variable.
+	
+	Note that the \texttt{low\_rank\_approx\_method} and \texttt{apf\_method} should remain set to \textit{None} since the relevant functions have not been extended to the three-polynomial problem. 
+	
+	These arguments are included for several reasons. The input arguments of the three-polynomial problem closely match those of the two polynomial problem. The code has been developed such that the relevant functions can easily be added in the future.
+	
+	\\
+	\hline
+	
+	\texttt{Experiment1SylvesterVariants\_3Polys( ex\_num, ex\_num\_variant, bool\_preproc)}
+	&	
+	This experiment considers the alternate variants of the $(2 \times 3)$ partitioned, three-polynomial subresultant matrices 
+	$
+		\hat{S}_{k}
+		(
+			f
+			,
+			g
+			,
+			h
+		)
+	$. The degree of the \gls{AGCD} is computed using each of the four variant 
+	$
+		\hat{T}_{k}
+		(
+			f, g, h
+		)
+	$, 
+	$
+		\hat{D}_{k}^{-1}
+		\hat{T}_{k}
+		(
+			f, g, h
+		)
+	$, 
+	$
+		T_{k}
+		(
+			f, g, h
+		)
+		\tilde{Q}_{k}
+	$ and 
+	$
+		\hat{D}^{-1}
+		T_{k}
+		(
+			f, g, h
+		)
+		\tilde{Q}_{k}
+	$. 
+	
+	Typically best results are obtained when the subresultant matrix variant 
+	$
+		\hat{D}^{-1}
+		T_{k}
+		(
+			f, g, h
+		)
+		\tilde{Q}_{k}
+	$ is considered.
+	
+	
+	
+	
+	\\
+	\hline
+	\texttt{Experiment2Preprocessing\_3Polys(ex\_num, ex\_num\_variant)}
+	&
+	This experiment considers the computation of the GCD of three univariate
+	polynomials by Sylvester subresultant matrix based methods, where the
+	matrices may or may not be preprocessed. It is typically shown that
+	preprocessing yields improved results.
+	
+	
+	
+	
+	
+	
+		\\
+		\hline
+		\texttt{Experiment3ReorderPolys.m}
+		&	This experiment considers the alternative orderings of the three polynomials from the example file. Ordering 
+		\begin{description}
+
+			\item 'a' assigns 
+			$a(x) \rightarrow f(x)$, 
+			$b(x) \rightarrow g(x)$ and 
+			$c(x) \rightarrow h(x)$.
+			
+			\item 'b' assigns 
+			$a(x) \rightarrow g(x)$,
+			$b(x) \rightarrow f(x)$ and
+			$c(x) \rightarrow h(x)$.
+			
+			\item 'c' assigns
+			$a(x) \rightarrow h(x)$,
+			$b(x) \rightarrow g(x)$ and
+			$c(x) \rightarrow f(x)$.
+			
+		\end{description}
+		This is equivalent to keeping the three polynomials $f(x)$, $g(x)$ and $h(x)$ constant and considering the three orderings of the polynomials in the subresultant matrices 
+		$\hat{S}_{k}(f, g, h)$, 
+		$\hat{S}_{k}(g, f, h)$ and 
+		$\hat{S}_{k}(h, g, f)$.
+		
+	
+	
+	
+	\\
+	\hline
+	
+	
+	
+	
+	
+	
+
+\end{longtable}
+
+
+
+
+
+
+
+
+
+\subsection{Global Variables}
+
+Other less frequently altered variables are found in the file \texttt{SetGlobalVariables\_GCD\_3Polys.m}
+
+\begin{longtable}[c]{|p{14em}||p{5em}|p{25em}|}
+	% Header row
+		\hline
+		Variable
+	&	Type
+	&	Description
+	\\
+	% Row 1
+		\hline
+		\texttt{EX\_NUM}
+	&	(String)
+	&	Example Number
+	\\
+	% Row 2
+		\hline
+		\texttt{EX\_NUM\_VARIANT}
+	&	(String)
+	&	'a', 'b' or 'c'
+	\\
+	% Row 3
+		\hline
+		\texttt{EMIN}
+	&	(Float)
+	&
+	\\
+	% Row 4
+		\hline
+		\texttt{EMAX}
+	&	(Float)
+	&
+	\\
+	% Row 5
+		\hline
+		\texttt{SEED}
+	&	(Int)
+	&	Used in random number generation
+	\\
+	% Row 6
+		\hline
+		\texttt{PLOT\_GRAPHS} 
+	&	(Boolean) 
+	&	\begin{enumerate}
+			\item True : Plot graphs
+			\item False : Don't plot graphs
+		\end{enumerate}
+	\\
+	% Row 7
+	\hline
+		\texttt{PLOT\_GRAPHS\_GCD\_DEGREE}
+	&	(Boolean)
+	&	Plot graphs related to the computation of the degree of the \gls{GCD}. For instance, setting this variable to true would plot the minimum singular values associated with the set of subresultant matrices if the \texttt{rank\_revealing\_metric} was set to 'Minimum Singular Values'.
+	\\
+	% Row 8
+	\hline
+	\texttt{PLOT\_GRAPHS\_PREPROCESSING}
+	&	(Boolean)
+	&	Plot graphs related to preprocessing of the subresultant matrices. For instance, setting this variable to true would plot the coefficients of the unprocessed and preprocessed polynomials 
+	$f(x)$ 
+	and 
+	$\lambda_{1}\tilde{f}_{1}(\omega)$, 
+	$g(x)$ 
+	and 
+	$\mu_{1}\tilde{g}_{1}(x)$, and 
+	$h(x)$ and 
+	$\rho_{1}\tilde{h}_{1}(\omega)$.
+	\\	
+	
+	
+	
+	% Row 9
+	\hline
+	\texttt{PLOT\_GRAPHS \_LOW\_RANK\_APPROXIMATION}
+	&	(Boolean)
+	&	Plot graphs associated with the computation of the low rank approximation of the t-th subresultant matrix. Since the low rank approximation methods have not been implemented, this is best set to \textit{false}.
+	\\
+	
+	
+	
+	
+	
+	
+	% Row 10
+		\hline
+		\texttt{BOOL\_LOG} 
+	&	(Boolean) 
+	&	Whether to use logs in the computation of the geometric mean and computation of the entries in the subresultant matrices. Typically this is set to false as the conversion to logs and back again seems to introduce more error than leaving the problem in the power basis.
+	
+		\begin{enumerate}
+			\item True : Use logs
+			\item False : Don't use logs
+		\end{enumerate}
+	\\
+	
+	
+	% Row 11
+		\hline
+		\texttt{BOOL\_ALPHA\_THETA}
+	&	(Boolean)
+	&	Determines whether the subresultant matrices are preprocessed or not.
+	\\
+	
+	
+	% Row 12
+		\hline
+		\texttt{SCALING\_METHOD}
+	&	(String)
+	&	The scaling method determines which polynomials are scaled in the three-polynomial subresultant matrices. We may only wish to scale $f(x)$ and $g(x)$ by optimised values $\lambda$ and $\mu$ while scaling $h(x)$ by $\rho = 1$. Theoretically, any combination of scaling should give the same result, but in practice this may not be the case. Further study is required and code correctness must be checked. 
+	\begin{description}
+		
+		\item[\texttt{lambda\_mu\_rho}] 
+		
+		\item[\texttt{lambda\_mu}]
+		
+		\item[\texttt{mu\_rho}]
+		
+		\item[\texttt{lambda\_rho}]
+		
+	\end{description}
+	
+	\\
+	
+	\hline
+		\texttt{MEAN\_METHOD}
+	&	(String)
+	&	Method used to compute the mean of the entries of the partitions of the Sylvester subresultant matrix
+		\begin{description}
+			\item[\texttt{None} : ] 
+			No mean is computed and coefficients of polynomials $f(x)$, $g(x)$ and $h(x)$ are not normalised.
+			
+			\item[\texttt{Geometric Mean My Method} : ] My method for computing the geometric mean using a reduced algorithm.
+			
+			\item[\texttt{Geometric Mean Matlab Method} : ] Standard Matlab method for computing the geometric mean of a set of values.
+			
+			\item[\texttt{Arithmetic Mean} : ]  
+		\end{description} 
+	
+	
+	\\
+	
+	% Row XX ========================================================
+	\hline
+		RANK\_REVEALING\_METRIC
+	&	
+	&
+	\\
+	
+	
+
+	% Row 12
+		\hline
+		\texttt{GCD\_COEFFICIENT\_METHOD}
+	&	(String)
+	&	Coefficients of the GCD $d(x)$ can be approximated in two ways:
+		\begin{description}
+			\item \texttt{ux and vx} : 
+				\begin{align}
+					\left[
+						\begin{array}{c}
+							C_{t}(u(x))
+							\\
+							C_{t}(v(x))
+							\\
+							C_{t}(w(x))
+						\end{array}
+					\right]
+					\textbf{d}_{t}
+					=
+					\left[
+						\begin{array}{c}
+							\textbf{f}
+							\\
+							\textbf{g}
+							\\
+							\textbf{h}
+						\end{array}
+					\right]
+				\end{align}
+			\item \texttt{ux}
+				\begin{align}
+					C_{t}(u(x))
+					\textbf{d}_{t}
+					=
+					\textbf{f}
+				\end{align}
+				
+		\end{description}
+	\\
+	
+	
+	
+	
+	% Row XX =
+	\hline
+	&	
+	&
+	
+	\\
+	
+	
+	
+	
+	
+	
+	% Row 10
+		\hline
+		\texttt{MAX\_ERROR\_SNTLN}
+	&	(Float)
+	&	Level at which the low rank approximation method terminates.
+	\\
+	% Row 11
+		\hline
+		\texttt{MAX\_ITERATIONS\_SNTLN} 
+	&	(Int)
+	&	Maximum number of iterations of low rank approximation method.
+	\\
+		\hline
+		\texttt{MAX\_ERROR\_APF} 
+	&	(Float)
+	&	Level at which the APF method terminates.
+	\\	
+		\hline
+		\texttt{MAX\_ITERATIONS\_APF}
+	&	(Int) 
+	&	Maximum number of iterations of APF method.
+	\\	
+	\hline
+\end{longtable}
+
+
+
+
+%
+
+\end{document}
+
+
+
+
+
